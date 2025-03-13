@@ -81,4 +81,3 @@ Detect human faces and eyes using **OpenCV's Haar Cascade Classifiers**.
 
 ---
 
-🚀 **Happy Coding!** 🔥  
